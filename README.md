@@ -28,5 +28,16 @@ Step 9: Testing and Validation
 Used nginx -t to confirm configuration syntax correctness after each edit. Reloaded the Nginx service to apply configuration changes. Verified HTTPS is working with valid SSL certificates. Confirmed HTTP traffic redirects to HTTPS properly. Tested IPv6 and IPv4 connectivity to the site. Validated load balancing by observing traffic distribution and failover behavior. Confirmed path-based routing serves correct backend applications based on request URL.
 
 
-<img width="1181" height="464" alt="Screenshot from 2025-08-17 15-44-18" src="https://github.com/user-attachments/assets/e5a95db7-5e91-492f-b23e-db00b9288ded" />
-<img width="1218" height="861" alt="Screenshot from 2025-08-17 15-56-06" src="https://github.com/user-attachments/assets/90a5ddf5-7d7b-4094-a4f3-23b60c2ed845" />
+<img width="1181" height="464" alt="Screenshot from 2025-08-17 15-44-18" src="https://github.com/user-attachments/assets/e2106df3-472a-4a1e-93aa-e168674d6c52" />
+<img width="1049" height="455" alt="Screenshot from 2025-08-17 15-53-03" src="https://github.com/user-attachments/assets/6b44f174-85fc-449f-8606-63f70467ba71" />
+<img width="1049" height="455" alt="Screenshot from 2025-08-17 15-53-03" src="https://github.com/user-attachments/assets/81cb73a3-8ee1-408d-aa4f-d8186081aa0c" />
+<img width="1472" height="757" alt="Screenshot from 2025-08-17 16-01-00" src="https://github.com/user-attachments/assets/d98124f0-4e9f-4fbb-95ca-98c4b39d71e2" />
+<img width="1185" height="995" alt="Screenshot from 2025-08-17 16-09-03" src="https://github.com/user-attachments/assets/37aca779-387b-4a0f-9fb3-a5fd065f489b" />
+<img width="1533" height="800" alt="Screenshot from 2025-08-17 16-12-46" src="https://github.com/user-attachments/assets/fdb20fec-3246-441a-9ad9-748813707a8e" />
+<img width="1533" height="800" alt="Screenshot from 2025-08-17 16-12-57" src="https://github.com/user-attachments/assets/46555c37-f30f-4988-9bc0-ab84f9bcc584" />
+
+
+
+
+
+
