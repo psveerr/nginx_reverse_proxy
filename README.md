@@ -26,3 +26,7 @@ Set up Nginx location blocks to route requests based on URL path prefixes (/app1
 
 Step 9: Testing and Validation
 Used nginx -t to confirm configuration syntax correctness after each edit. Reloaded the Nginx service to apply configuration changes. Verified HTTPS is working with valid SSL certificates. Confirmed HTTP traffic redirects to HTTPS properly. Tested IPv6 and IPv4 connectivity to the site. Validated load balancing by observing traffic distribution and failover behavior. Confirmed path-based routing serves correct backend applications based on request URL.
+
+
+<img width="1181" height="464" alt="Screenshot from 2025-08-17 15-44-18" src="https://github.com/user-attachments/assets/e5a95db7-5e91-492f-b23e-db00b9288ded" />
+<img width="1218" height="861" alt="Screenshot from 2025-08-17 15-56-06" src="https://github.com/user-attachments/assets/90a5ddf5-7d7b-4094-a4f3-23b60c2ed845" />
